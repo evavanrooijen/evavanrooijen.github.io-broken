@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
-# Hello World!
 
 I don't like chaos but I have a chaotic mind. My enthusiasm for all kinds of projects makes me jump from one project to another. This leaves me feeling overwhelmed sometimes. In those cases, planning helps! 
 
