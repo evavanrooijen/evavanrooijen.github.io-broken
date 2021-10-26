@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Hello World!"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello World! I'm **Eva**, a data-geek who likes to lift weights and drive around on my motorcycle!"
+  bio    : "I'm **Eva**, a data-geek who likes to lift weights and drive around on my motorcycle!"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
