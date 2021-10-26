@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello World! I'm Eva, a data-geek who likes to lift weights and drive around on my motorcycle!"
   links:
+    - label: "Delft, NL"
+      icon: "fab fa-fw fa-solid fa-house"
+      url: "https://goo.gl/maps/yHavetNQ3BWhRVSz7"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eva-van-rooijen/"
