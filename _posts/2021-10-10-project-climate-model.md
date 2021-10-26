@@ -1,5 +1,8 @@
 ---
 title: "Project: Climate Model"
+header:
+  teaser: /assets/images/eart.jpeg
+  og_image: /assets/images/eart.jpeg
 categories:
   - Projects
 tags:
