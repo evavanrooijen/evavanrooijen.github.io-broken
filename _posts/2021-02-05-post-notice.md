@@ -1,8 +1,8 @@
 ---
 title: "Post: Notice"
 header:
-  teaser: /assets/images/eart.jpeg
-  og_image: /assets/images/eart.jpeg
+  teaser: /assets/images/teasers/eart.jpeg
+  og_image: /assets/images/teasers/eart.jpeg
 categories:
   - Blog
 ---
