@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello World! I'm Eva, a data-geek who likes to lift weights and drive around on my motorcycle!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eva-van-rooijen/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/evalikesdata"
