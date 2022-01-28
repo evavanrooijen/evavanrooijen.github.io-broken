@@ -12,3 +12,11 @@ During an exchange semester in Moscow, Russia, I got to take a class in Cognitiv
 The value of information is an important concept in economics. It is one of the assumptions of the free markets by Adam Smith. In the current Information Age, we can see large effects of the availability of open information on economic markets. How this will reshape society, is a large interest of mine and something I like to write about.
 
 So, the processing of information is an essential part of our daily lives.
+
+<form action="https://wisdombeyonddata.podia.com/email_lists/125239/subscriptions" accept-charset="UTF-8" method="post">
+<input type="text" name="name" placeholder="Name" />
+<input type="email" name="email" required="required" placeholder="Email" />
+<input type="submit" value="Join" />
+</form>
+
+
