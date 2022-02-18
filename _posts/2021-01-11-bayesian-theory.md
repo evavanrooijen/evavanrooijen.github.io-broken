@@ -10,7 +10,7 @@ tags:
   - theory
 ---
 
-Welcome to this first post on bayesian statistics! [ insert meme ] 
+** Welcome  ** to this first post on bayesian statistics! [ insert meme ] 
 
 When using Kramdown `hello world` can be added after a sentence to assign the `jeej bayesian` to the `print("bayesian is cool)"` element. 
 
