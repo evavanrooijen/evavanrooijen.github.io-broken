@@ -1,6 +1,6 @@
 ---
 title: "Welcome to plotly-scatter!"
-date: 2022-04-18T15:34:30-04:00
+date: 2022-02-20
 categories:
   - Blog
 tags:
