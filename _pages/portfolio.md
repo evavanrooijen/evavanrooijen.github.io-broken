@@ -6,7 +6,7 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 sidebar:
-  nav: "docs"
+  nav: "food"
 ---
 
 # Hello World! 
