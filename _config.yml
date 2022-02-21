@@ -96,6 +96,14 @@ footer:
       url: "https://instagram.com/evavrooijen"
 
 defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _posts
   - scope:
       path: ""
