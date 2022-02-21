@@ -1,8 +1,8 @@
 ---
-title: Project Food
+title: Project food
 layout: collection
-permalink: /project-food/
-collection: project-food
+permalink: /portfolio/
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---
