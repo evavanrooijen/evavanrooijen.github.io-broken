@@ -6,7 +6,7 @@ header:
 tags:
   - food
 sidebar:
-  nav: "docs"
+  nav: "food"
 ---
 
 Hello hello heeeello
