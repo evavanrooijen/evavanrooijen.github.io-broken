@@ -5,6 +5,8 @@ header:
   og_image: /assets/images/teasers/eart.jpeg
 tags:
   - food
+sidebar:
+  nav: "docs"
 ---
 
 Hello hello heeeello
