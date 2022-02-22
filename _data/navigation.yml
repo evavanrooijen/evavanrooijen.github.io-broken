@@ -14,7 +14,7 @@ food:
   - title: Introducion
     children:
       - title: "Why"
-        url: /portfolio/what/
+        url: /portfolio/why/
       - title: "How"
         url: /portfolio/how/
       - title: "What"
